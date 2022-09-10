@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
         <Navbar/>
-        <div>Home</div>
+        <div>Bienvenidos a la app</div>
     </>
   )
 }
